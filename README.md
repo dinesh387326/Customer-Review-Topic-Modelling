@@ -154,7 +154,7 @@ The complete workflow is implemented in **Google Colab**, making it easy to repr
 
 **Google Colab Notebook:**
 
-> *Add Google Colab link here.*
+[Open in Colab](https://colab.research.google.com/drive/1W3ENGcs3lg2VSHLrwTAX-AanR9n-gEM9?usp=sharing)
 
 ---
 
